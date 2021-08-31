@@ -353,7 +353,7 @@ template {
 
 /* IMPORT ALL SASS DIRECTORY FILES */
 ::selection {
-  background: #EBFE62;
+  background: #F2EBE7;
   color: #58595B;
   text-shadow: none;
 }
@@ -663,7 +663,7 @@ button.menu-toggle {
   position: fixed;
   top: 0;
   left: 0;
-  background: #A5D5DA;
+  background: #F2EBE7;
   transition: all ease 0.7s;
   transition-property: transform, opacity;
   z-index: -1;
