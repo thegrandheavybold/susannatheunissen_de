@@ -1,0 +1,7 @@
+
+@font-face {
+    font-family:"Miso Light";
+    src:url("miso-light.woff2") format("woff2"),url("miso-light.woff") format("woff"),url("miso-light.otf") format("opentype");
+    font-style:normal;font-weight:400;
+}
+        

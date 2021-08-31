@@ -1,0 +1,22 @@
+{
+  "name": "susannatheunissen_de",
+  "version": "1.0.0",
+  "description": "Susanna Theunissen | Coaching Supervison Beratung",
+  "main": "main.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve",
+    "watch": "eleventy --watch",
+    "debug": "DEBUG=*"
+  },
+  "keywords": [],
+  "author": "Christian Kriegsheim <kriegsheim@tghb.studio>",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  },
+  "dependencies": {
+    "moment": "^2.29.1",
+    "normalize.css": "^8.0.1"
+  }
+}
