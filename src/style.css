@@ -353,8 +353,8 @@ template {
 
 /* IMPORT ALL SASS DIRECTORY FILES */
 ::selection {
-  background: #F2EBE7;
-  color: #58595B;
+  background: #58595B;
+  color: #F2EBE7;
   text-shadow: none;
 }
 
